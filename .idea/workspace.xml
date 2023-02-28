@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c09491d6-3174-4e5a-a237-73c688bbf588" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://D:/maven/apache-maven-3.8.1/maven_repository/org/springframework/security/spring-security-web/5.6.0/spring-security-web-5.6.0-sources.jar!/org/springframework/security/web/access/AccessDeniedHandler.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.8.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2LAK1kIEsKtNdDBgEHFRF8tzT28" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "jbr-11",
+    "last_directory_selection": "C:/Users/Rescale/Desktop/springboot/mybatisplus-02/src/main/java/com/sx/service",
+    "last_opened_file_path": "C:/Users/Rescale/Desktop/springboot/springbootSecurity01/src/main/java/com/sx/common",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.26237053",
+    "service.view.auto.scroll.to.source": "true",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "spring.configuration.checksum": "5a90ca53c5080b9d1a208ca7ebad0e26",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "RunConfigurationTargetLRU": [
+      "ca243a48-eb28-4f3a-b194-0ce36f3b680c/schema/\"dbdemo03\"",
+      "ca243a48-eb28-4f3a-b194-0ce36f3b680c/schema/\"dbdemo04\"",
+      "ca243a48-eb28-4f3a-b194-0ce36f3b680c/schema/\"tlias\""
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sx" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rescale\Desktop\springboot\springbootSecurity01\src\main\java\com\sx\common" />
+      <recent name="C:\Users\Rescale\Desktop\springboot\mybatisplus-02\src\main\java\com\sx\bean" />
+      <recent name="C:\Users\Rescale\Desktop\springboot\tlias-parent2\talias-web-management2\src\main\java\com\sx" />
+      <recent name="C:\Users\Rescale\Desktop\springboot\tlias-parent2\tlias-utils2\src\main\java\com\sx" />
+      <recent name="C:\Users\Rescale\Desktop\springboot\tlias-parent2\tlias-pojo2\src\main\java\com\sx" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rescale\Desktop\springboot\mybatisplus-02\src\main\java\com\sx" />
+      <recent name="C:\Users\Rescale\Desktop\springboot\springboot06-tlias\src\main\java\com\shenxiao" />
+      <recent name="C:\Users\Rescale\Desktop\springboot\springboot06-tlias\src\main\java\com\shenxiao\config" />
+      <recent name="C:\Users\Rescale\Desktop\springboot\springboot06-tlias\src\main\resources\static" />
+      <recent name="C:\Users\Rescale\Desktop\springboot\springboot06-tlias\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.sx.mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sx.bean" />
+      <recent name="com.sx.springboot05mybatis.pojo" />
+      <recent name="com.sx.utils" />
+      <recent name="com.sx.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringSecurityApplication">
+    <configuration name="ApplicationContextTest.testThirdBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="transactional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shenxiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shenxiao" />
+      <option name="MAIN_CLASS_NAME" value="com.shenxiao.ApplicationContextTest" />
+      <option name="METHOD_NAME" value="testThirdBean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationContextTest.testTokenParse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="transactional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shenxiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shenxiao" />
+      <option name="MAIN_CLASS_NAME" value="com.shenxiao.ApplicationContextTest" />
+      <option name="METHOD_NAME" value="testTokenParse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoConfigurationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="transactional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shenxiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shenxiao" />
+      <option name="MAIN_CLASS_NAME" value="com.shenxiao.AutoConfigurationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mybatisplus02ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sx" />
+      <option name="MAIN_CLASS_NAME" value="com.sx.Mybatisplus02ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AliyunOosSpringBootAutoconfigureApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="aliyun-oss-spring-boot-autoconfigure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sx.AliyunOosSpringBootAutoconfigureApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AliyunOssSpringBootAutoconfigureApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="aliyun-oss-spring-boot-autoconfigure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sx.AliyunOssSpringBootAutoconfigureApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="transactional" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shenxiao.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mybatisplus01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mybatisplus-01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sx.Mybatisplus01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mybatisplus02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mybatisplus-02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sx.Mybatisplus02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springbootSecurity01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sx.SpringSecurityApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sx.Springboot01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sx.Springboot02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot03CaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot03-case" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sx.Springboot03CaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot04MybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot04-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sx.Springboot04MybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot05MybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot05-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sx.Springboot05MybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot06TliasApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot06-tlias" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shenxiao.Springboot06TliasApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootAutoconfigurationTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-autoconfiguration-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.SpringbootAutoconfigurationTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaliasWebManagement2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tlias-web-management2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sx.TaliasWebManagement2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TliasWebManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="tlias-web-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.TliasWebManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Mybatisplus02ApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.AutoConfigurationTests" />
+      <item itemvalue="JUnit.ApplicationContextTest.testTokenParse" />
+      <item itemvalue="JUnit.ApplicationContextTest.testThirdBean" />
+      <item itemvalue="Spring Boot.Mybatisplus02Application" />
+      <item itemvalue="Spring Boot.TaliasWebManagement2Application" />
+      <item itemvalue="Spring Boot.App" />
+      <item itemvalue="Spring Boot.Mybatisplus01Application" />
+      <item itemvalue="Spring Boot.Springboot02Application" />
+      <item itemvalue="Spring Boot.Springboot03CaseApplication" />
+      <item itemvalue="Spring Boot.Springboot04MybatisApplication" />
+      <item itemvalue="Spring Boot.Springboot05MybatisApplication" />
+      <item itemvalue="Spring Boot.Springboot06TliasApplication" />
+      <item itemvalue="Spring Boot.AliyunOosSpringBootAutoconfigureApplication" />
+      <item itemvalue="Spring Boot.TliasWebManagementApplication" />
+      <item itemvalue="Spring Boot.Springboot01Application" />
+      <item itemvalue="Spring Boot.SpringbootAutoconfigurationTestApplication" />
+      <item itemvalue="Spring Boot.AliyunOssSpringBootAutoconfigureApplication" />
+      <item itemvalue="Spring Boot.SpringSecurityApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringSecurityApplication" />
+        <item itemvalue="JUnit.Mybatisplus02ApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.AutoConfigurationTests" />
+        <item itemvalue="JUnit.ApplicationContextTest.testTokenParse" />
+        <item itemvalue="JUnit.ApplicationContextTest.testThirdBean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c09491d6-3174-4e5a-a237-73c688bbf588" name="Changes" comment="" />
+      <created>1675308234339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675308234339</updated>
+      <workItem from="1675308235399" duration="1243000" />
+      <workItem from="1675309497374" duration="1031000" />
+      <workItem from="1675321137600" duration="8676000" />
+      <workItem from="1675385271745" duration="8624000" />
+      <workItem from="1675409167190" duration="4671000" />
+      <workItem from="1675523364263" duration="1350000" />
+      <workItem from="1675562305867" duration="2109000" />
+      <workItem from="1675581573706" duration="4578000" />
+      <workItem from="1675586180930" duration="7153000" />
+      <workItem from="1675651827019" duration="23083000" />
+      <workItem from="1675730115995" duration="11532000" />
+      <workItem from="1675761844211" duration="5233000" />
+      <workItem from="1675772898102" duration="856000" />
+      <workItem from="1675818893100" duration="15476000" />
+      <workItem from="1675861072026" duration="27000" />
+      <workItem from="1675861627535" duration="4110000" />
+      <workItem from="1675911690051" duration="5583000" />
+      <workItem from="1675994538535" duration="9820000" />
+      <workItem from="1676162073619" duration="20342000" />
+      <workItem from="1676191386264" duration="21000" />
+      <workItem from="1676360465503" duration="183000" />
+      <workItem from="1676360699049" duration="915000" />
+      <workItem from="1676361635086" duration="532000" />
+      <workItem from="1676362394323" duration="10214000" />
+      <workItem from="1676424452373" duration="1961000" />
+      <workItem from="1676430058385" duration="1182000" />
+      <workItem from="1676431299886" duration="5922000" />
+      <workItem from="1676506605221" duration="1947000" />
+      <workItem from="1676509673050" duration="6003000" />
+      <workItem from="1676534736644" duration="1008000" />
+      <workItem from="1676536048012" duration="3553000" />
+      <workItem from="1676539657567" duration="479000" />
+      <workItem from="1676540148271" duration="2107000" />
+      <workItem from="1676542413755" duration="4892000" />
+      <workItem from="1676593950020" duration="945000" />
+      <workItem from="1676598497021" duration="2832000" />
+      <workItem from="1676601547882" duration="1443000" />
+      <workItem from="1676604469020" duration="3764000" />
+      <workItem from="1676620492595" duration="6519000" />
+      <workItem from="1676636453677" duration="823000" />
+      <workItem from="1676680067196" duration="3900000" />
+      <workItem from="1676711839148" duration="8568000" />
+      <workItem from="1676723417735" duration="1260000" />
+      <workItem from="1677487224099" duration="10035000" />
+      <workItem from="1677543784589" duration="850000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

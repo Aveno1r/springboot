@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot04-mybatis" />
+        <module name="springboot-autoconfiguration-test" />
+        <module name="springboot03-Case" />
+        <module name="springboot05-mybatis" />
+        <module name="springboot06-tlias" />
+        <module name="itheima-utils" />
+        <module name="tlias-pojo" />
+        <module name="tlias-web-management2" />
+        <module name="springboot07" />
+        <module name="tlias-utils2" />
+        <module name="springboot02" />
+        <module name="springboot01" />
+        <module name="mybatisplus-01" />
+        <module name="aliyun-oss-spring-boot-starter" />
+        <module name="tlias-pojo2" />
+        <module name="tlias-web-management" />
+        <module name="mybatisplus-02" />
+        <module name="springbootSecurity01" />
+        <module name="tlias-utils" />
+        <module name="aliyun-oss-spring-boot-autoconfigure" />
+        <module name="springboot03-case" />
+        <module name="transactional" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itheima-utils (2)" target="11" />
+      <module name="springboot-autoconfiguration-test (1)" target="11" />
+      <module name="springboot-autoconfiguration-test (2)" target="11" />
+      <module name="springboot-transactional" target="11" />
+      <module name="springboot07-aop" target="11" />
+      <module name="springboot07-AOP" target="11" />
+      <module name="talis-parent" target="11" />
+      <module name="tlias-parent (1)" target="11" />
+      <module name="tlias-parent (2)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="aliyun-oss-spring-boot-autoconfigure" options="-parameters" />
+      <module name="mybatisplus-01" options="-parameters" />
+      <module name="mybatisplus-02" options="-parameters" />
+      <module name="springboot-autoconfiguration-test" options="-parameters" />
+      <module name="springboot-autoconfiguration-test (1)" options="-parameters" />
+      <module name="springboot-autoconfiguration-test (2)" options="-parameters" />
+      <module name="springboot01" options="-parameters" />
+      <module name="springboot02" options="-parameters" />
+      <module name="springboot03-case" options="-parameters" />
+      <module name="springboot04-mybatis" options="-parameters" />
+      <module name="springboot05-mybatis" options="-parameters" />
+      <module name="springboot06-tlias" options="-parameters" />
+      <module name="springbootSecurity01" options="-parameters" />
+      <module name="tlias-pojo" options="-parameters" />
+      <module name="tlias-utils" options="-parameters" />
+      <module name="tlias-web-management" options="-parameters" />
+      <module name="tlias-web-management2" options="-parameters" />
+      <module name="transactional" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+aliyun:
+  oss:
+    endpoint: https://oss-cn-hangzhou.aliyuncs.com
+    accessKeyId: LTAI5tQcRGcFP3qjwZDVqAT7
+    accessKeySecret: O0VopqtdCIdJhWxtriiVYZtskkmND3
+    bucketName: rescale
+server:
+  port: 8082
